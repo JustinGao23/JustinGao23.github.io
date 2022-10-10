@@ -1,8 +1,15 @@
 body{
     font-size: 24px;
 }
-.wrapper {
+.professional {
     background: lightblue;
+
+    margin: 24px;
+
+    padding: 24px;
+}
+.personal {
+    background: lightgray;
 
     margin: 24px;
 
