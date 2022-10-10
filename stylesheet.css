@@ -13,7 +13,10 @@ body{
 }
 
 .img-headshot {
-    width: 300px;
+    width: 600px;
+    height: 800px;
+    background-image: url(Headshot.jpeg);
+    background-size: 100%;
 }
 
 .header {
